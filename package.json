@@ -1,0 +1,29 @@
+{
+  "name": "hardhat-project",
+  "description": "Zin-Uru",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "hardhat": "^2.2.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@openzeppelin/hardhat-upgrades": "^1.6.0",
+    "ethers": "^5.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utribe-one/Zin-Uru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utribe-one/Zin-Uru/issues"
+  },
+  "homepage": "https://github.com/utribe-one/Zin-Uru#readme"
+}
